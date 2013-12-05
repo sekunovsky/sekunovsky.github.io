@@ -1,1 +1,1 @@
-window.location.href = 'sekunovsky.http://github.io'
+window.location.href = 'sekunovsky.github.io'
